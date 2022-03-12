@@ -1,2 +1,2 @@
-# HTML-DEV
+# HTML-ODEV
 html ödevi
